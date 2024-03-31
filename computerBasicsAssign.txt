@@ -1,0 +1,19 @@
+1)A computer is an electronic device that stores and processes data in binary format.It is highly used for a profitable business.
+
+2)RAM stands for random access memory.It's random because RAM is a volatile memory.RAM has direct access to the CPU since it's considered fast as compared to normal harddisk drives.
+
+3)Data is temporarily stored in volatile devices as well as non volatile devices.Volatile devices include RAM and registers in CPU while non volatile devices like harddisk and mordern solid state drives also store data.
+
+4)Keyboard as such in mordern computers.
+
+5)Output devices are any hardware components that take information that has been processed by a computer and translates it into a form that humans can understand. 
+
+Output devices include :-
+    a)Moniter(Screen) b)Printer c)Plotter d)Speakers
+
+6)Mouse in mordern computer allows the movement of a cursor in a computer screen.
+
+7)Machine Language i.e 0 and 1
+
+8)Input devices are those devices which help the computers to receive data from the humans such that to process it and give some useful information to the respective client or user.
+
